@@ -11,7 +11,7 @@
 
 <body>
 
-    <form action="/Page/register" class="form-login" method="post">
+    <form action="/Register/register" class="form-login" method="post">
         <div class="login-card card">
             <div class="card-header">
                 <h3>Criar Conta</h3>

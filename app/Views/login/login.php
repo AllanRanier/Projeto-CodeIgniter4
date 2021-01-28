@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <form action="<?= base_url('page/logar') ?>" class="form-login" method="POST">
+    <form action="<?= base_url('Logar/logar') ?>" class="form-login" method="POST">
         <div class="login-card card">
             <div class="card-header">
                 <h3>Login</h3>
@@ -28,7 +28,7 @@
             <div class="card-footer" style="align-items: center;">
                 <button class="btn btn-lg btn-primary">Entrar</button>
                 <div class="d-flex flex-row-reverse bd-highlight">
-                    <a href="/page/register" class="p-2 bd-highlight">Criar conta</a>
+                    <a href="/Register/register" class="p-2 bd-highlight">Criar conta</a>
                 </div>
             </div>
         </div>

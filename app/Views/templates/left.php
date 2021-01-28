@@ -1,20 +1,20 @@
 <aside class="sidebar">
     <nav class="menu mt-3">
         <ul class="nav-list">
-            <li class="nav-item">
-                <a href="/page/cadastroClientes">
+            <!-- <li class="nav-item">
+                <a href="/CadastrarClientes/cadastroClientes">
                     <i class="icofont-ui-check mr-2"></i>
                     Cadastrar Clientes
                 </a>
-            </li>
+            </li> -->
             <li class="nav-item">
-                <a href="/page/clienteCadastrado">
+                <a href="/ClienteCadastrado/clienteCadastrado">
                     <i class="icofont-ui-calendar mr-2"></i>
                     Clientes Cadastrados
                 </a>
             </li>
             <li class="nav-item">
-                <a href="/page/dashboard">
+                <a href="/DashBoard/dashboard">
                     <i class="icofont-chart-histogram mr-2"></i>
                     DashBoard
                 </a>
